@@ -702,6 +702,13 @@
    ;; Paren
    `(show-paren-match ((,class (:background unspecified :foreground "#FA009A"))))
 
+   ;; Ivy
+   `(ivy-minibuffer-match-face-1 ((,class (:background unspecified :foreground "#FA009A"))))
+   `(ivy-minibuffer-match-face-2 ((,class (:background unspecified :foreground "#FA009A"))))
+   `(ivy-minibuffer-match-face-3 ((,class (:background unspecified :foreground "#FA009A"))))
+   `(ivy-minibuffer-match-face-4 ((,class (:background unspecified :foreground "#FA009A"))))
+   `(ivy-current-match ((,class (:background "#BF00FF" :foreground "#eceff1"))))
+
    ;; org-indent
    `(org-indent ((,class (:foreground ,background :background ,background))))
 
