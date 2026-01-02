@@ -65,7 +65,7 @@
        (header-color (if (or window-system truecolor) "#455A64" "#5f5f5f"))
        (subtle "#a7adba") ;; tree-row-hover-disclosure-button-control
        (selection "#555555") ;; tab-control-dirty-tab-close-button
-       (secondary-selection "#bf616a") ;; tab-control-hover-tab-close-button
+       (secondary-selection "#555555") ;; tab-control-hover-tab-close-button
        (foreground "#eeffff")
        (comment "#b0bec5") ;; table-row
        (red "#f36c60") ;; tab-control-hover-tab-close-button
